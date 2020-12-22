@@ -7,8 +7,10 @@ It accepts bets, rolls two dice, assigns a random outcome to each die, calculate
 The pay-out rules are as follows:
 
 A sum of 2 or 12 pays 3 times the current bet.
+
 A sum of 3 or 11 pays 2 times the current bet.
-A sum of 4 or 10 pays 1 time the current bet.
+
+A sum of 4 or 10 pays 1 times the current bet.
 
 Requirements:
 
